@@ -1,3 +1,4 @@
+//Problem Name: Pascal's Triangle
 //Problem Link: https://leetcode.com/problems/pascals-triangle/?envType=study-plan&id=dynamic-programming-i
 
 class Solution {
